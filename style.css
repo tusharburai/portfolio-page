@@ -197,7 +197,7 @@
   
   /* About Me Card */
   #about.card {
-    background: #111a2b; /* dark navy */
+    background: #1e293b; /* dark navy */
     color: #e2e8f0; 
     max-width: 900px;
     margin: 2rem auto;
@@ -212,7 +212,7 @@
   #about.card:hover {
     background: #162238; /* slightly lighter navy */
     transform: translateY(-5px);
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 8px 20px rgba(56, 189, 248, 0.4);
   }
   
   /* Heading */
